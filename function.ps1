@@ -6,3 +6,5 @@
 }
 
 bye("Ebrahima")
+
+function
